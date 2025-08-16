@@ -65,6 +65,7 @@ It currently supports the following altcoins:
 * Terracoin
 * Ufo
 * Viacoin
+* Shibacoin
 
 Read our [API Specification](https://dgarage.github.io/NBXplorer/).
 

@@ -92,6 +92,10 @@ namespace NBXplorer.Tests
 			//nodeDownloadData = NodeDownloadData.MonetaryUnit.v2_1_6;
 			//Network = NBitcoin.Altcoins.MonetaryUnit.Instance.Regtest;
 
+			//CryptoCode = "SHIC";
+			//nodeDownloadData = NodeDownloadData.Shibacoin.v1_2_1;
+			//Network = NBitcoin.Altcoins.Shibacoin.Instance.Regtest;
+
 			//CryptoCode = "LBTC";
 			//nodeDownloadData = NodeDownloadData.Elements.v0_21_0_2;
 			//NBXplorerNetwork = _Provider.GetLBTC();
